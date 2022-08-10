@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/matheus-b8one-teste.github.io/static/js/main.21960639.js",
-    "index.html": "/matheus-b8one-teste.github.io/index.html",
-    "main.21960639.js.map": "/matheus-b8one-teste.github.io/static/js/main.21960639.js.map"
+    "main.css": "/matheus-b8one-teste/static/css/main.f1067331.css",
+    "main.js": "/matheus-b8one-teste/static/js/main.e525c37b.js",
+    "index.html": "/matheus-b8one-teste/index.html",
+    "main.f1067331.css.map": "/matheus-b8one-teste/static/css/main.f1067331.css.map",
+    "main.e525c37b.js.map": "/matheus-b8one-teste/static/js/main.e525c37b.js.map"
   },
   "entrypoints": [
-    "static/js/main.21960639.js"
+    "static/css/main.f1067331.css",
+    "static/js/main.e525c37b.js"
   ]
 }
