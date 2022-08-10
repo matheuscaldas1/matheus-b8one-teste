@@ -1,8 +1,13 @@
 import React from 'react';
 
-function App() {
+import Card from './components/Card';
+import './global.css';
+
+const App: React.FC = () => {
   return (
-    <h1>Teste b8one</h1>
+    <div>
+      <Card />
+    </div>
   );
 }
 

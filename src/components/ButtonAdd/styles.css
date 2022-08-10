@@ -1,0 +1,29 @@
+.add-to-cart {
+    width: 240px;
+    height: 48px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: uppercase;
+    border: none;
+    cursor: pointer;
+    margin: 8px;
+}
+
+.add-to-cart.default {
+    background: #40B25C;
+    color: #FFFFFF;
+}
+
+.add-to-cart.default:hover {
+    background: #1C6C3E;
+}
+
+.add-to-cart.adicionado {
+    background: #A3F9B9;
+}
+
+.add-to-cart.adicionado:hover {
+    background: #7aca8e;
+}
