@@ -18,6 +18,7 @@
 
 .add-to-cart.default:hover {
     background: #1C6C3E;
+    transition: 0.3s;
 }
 
 .add-to-cart.adicionado {
@@ -26,4 +27,5 @@
 
 .add-to-cart.adicionado:hover {
     background: #7aca8e;
+    transition: 0.3s;
 }

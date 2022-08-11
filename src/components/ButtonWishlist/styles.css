@@ -1,0 +1,45 @@
+.wishlist {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    margin: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 90px;
+    left: 215px;
+}
+
+.wishlist.default {
+    background: #F2F3F6;
+}
+
+.wishlist.default:hover {
+    background: #FEE5EC;
+    transition: 0.3s;
+}
+
+.wishlist.default:hover > .div-icon {
+    filter: invert(36%) sepia(25%) saturate(5302%) hue-rotate(333deg) brightness(92%) contrast(84%);
+    transition: 0.3s;
+}
+
+.wishlist.adicionado {
+    background: #DA4B4F;
+}
+.wishlist.adicionado .div-icon {
+    filter: invert(100%) sepia(0%) saturate(7431%) hue-rotate(50deg) brightness(112%) contrast(98%);
+}
+
+.wishlist.adicionado:hover {
+    background: #C22539;
+    transition: 0.3s;
+}
+
+.div-icon {
+    width: 20px;
+    height: 20px;
+}
