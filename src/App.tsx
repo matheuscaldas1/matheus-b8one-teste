@@ -29,7 +29,7 @@ const App: React.FC = () => {
   ]);
 
   return (
-    <div className='main-container'>
+    <div className='App'>
       {products.map(product => (
         <Card
           id={product.id}
