@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/matheus-b8one-teste/static/css/main.4fa6b0a4.css",
-    "main.js": "/matheus-b8one-teste/static/js/main.4bdd7dcf.js",
+    "main.css": "/matheus-b8one-teste/static/css/main.9d7996d4.css",
+    "main.js": "/matheus-b8one-teste/static/js/main.6808f701.js",
     "index.html": "/matheus-b8one-teste/index.html",
     "static/media/heartOutline.svg": "/matheus-b8one-teste/static/media/heartOutline.a695f93a6821578414e053b00b989893.svg",
     "static/media/heart.svg": "/matheus-b8one-teste/static/media/heart.9c669401d678e338211f9272530cf237.svg",
-    "main.4fa6b0a4.css.map": "/matheus-b8one-teste/static/css/main.4fa6b0a4.css.map",
-    "main.4bdd7dcf.js.map": "/matheus-b8one-teste/static/js/main.4bdd7dcf.js.map"
+    "main.9d7996d4.css.map": "/matheus-b8one-teste/static/css/main.9d7996d4.css.map",
+    "main.6808f701.js.map": "/matheus-b8one-teste/static/js/main.6808f701.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fa6b0a4.css",
-    "static/js/main.4bdd7dcf.js"
+    "static/css/main.9d7996d4.css",
+    "static/js/main.6808f701.js"
   ]
 }
